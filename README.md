@@ -87,3 +87,6 @@ Output:
 39
 ```
 
+This C++ program calculates weekly working hours based on input values for multiple test cases. For each test case, it reads two integers: X, the number of work hours from Monday to Thursday (4 days), and Y, the work hours on Friday (a lighter day). It computes the total hours as 4 * X + Y and prints the result for each test case.
+
+The program begins by reading the number of test cases T, then loops through each case, performing the calculation and outputting the result. It's a simple and efficient way to determine weekly work hours based on a fixed schedule, assuming Saturdays and Sundays are holidays.
